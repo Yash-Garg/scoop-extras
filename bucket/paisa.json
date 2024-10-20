@@ -1,12 +1,12 @@
 {
-    "version": "0.7.0",
+    "version": "0.7.1",
     "description": "Paisa - Personal Finance Manager.",
     "homepage": "https://paisa.fyi/",
     "license": "AGPL",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ananthakumaran/paisa/releases/download/v0.7.0/paisa-app-windows-amd64.exe",
-            "hash": "e711d1d22876d900fc87228b03181f844af729a31cbc18ed18848abbef9326b9"
+            "url": "https://github.com/ananthakumaran/paisa/releases/download/v0.7.1/paisa-app-windows-amd64.exe",
+            "hash": "dcdbc8d5216e0ca0ac002a980e8fd564e46b3fb7347a9b40cfdb8d2e2ff6fe2a"
         }
     },
     "bin": "paisa-app-windows-amd64.exe",
